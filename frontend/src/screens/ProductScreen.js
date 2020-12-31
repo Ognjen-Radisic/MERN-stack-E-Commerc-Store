@@ -84,6 +84,8 @@ const ProductScreen = ({ match }) => {
                   Add to cart
                 </Button>
               </ListGroup.Item>
+
+              {/* Test */}
             </ListGroup>
           </Card>
         </Col>
